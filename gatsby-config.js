@@ -14,7 +14,7 @@ module.exports = {
     author: `@gatsbyjs`,
     siteUrl: `https://StephanyPerez-FS.github.io/my-static-site/`,
   },
-  pathPrefix: "/my-static-site",
+
   plugins: [
     `gatsby-plugin-image`,
     {
